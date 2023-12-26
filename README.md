@@ -1,2 +1,3 @@
-# goit-algo-hw-09
-Greedy algorithms, Dynamic programming
+# Жадібні алгоритми та динамічне програмування
+
+
